@@ -31,7 +31,7 @@ Follow the steps below to set up this application on your local machine:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/website-status-checker.git
+git clone https://github.com/piehostHQ/website-status-checker.git
 cd website-status-checker
 ```
 Install the PHP dependencies using Composer:
